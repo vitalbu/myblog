@@ -1,0 +1,20 @@
+{
+    "name": "vitalbu/myblog",
+    "type": "library",
+    "homepage": "http://github.com/vitalbu/myblog",
+    "license" : "BSD",
+    "authors": [
+        {
+            "name": "Vital Bu",
+            "email": "vitalbu@tut.by"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "myblog\\": "src/"
+        }
+    }
+}

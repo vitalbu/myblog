@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu;
+namespace Myblog;
 
 class Cache
 {
-
     use TSingletone;
 
     public function set($key, $data, $seconds = 3600)

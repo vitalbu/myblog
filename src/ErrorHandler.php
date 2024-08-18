@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu;
+namespace Myblog;
 
 class ErrorHandler
 {
-
     public function __construct()
     {
         if (DEBUG) {

@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu\base;
+namespace Myblog\base;
 
 class View
 {
-
     public $route;
     public $controller;
     public $model;

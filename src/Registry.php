@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu;
+namespace Myblog;
 
 class Registry
 {
-
     use TSingletone;
 
     protected static $properties = [];

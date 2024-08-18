@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu;
+namespace Myblog;
 
 class Router
 {
-
     protected static $routes = [];
     protected static $route = [];
 

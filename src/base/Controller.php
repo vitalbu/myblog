@@ -1,6 +1,6 @@
 <?php
 
-namespace vitalbu\base;
+namespace Myblog\base;
 
 abstract class Controller
 {

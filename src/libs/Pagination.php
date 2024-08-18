@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu\libs;
+namespace Myblog\libs;
 
 class Pagination
 {
-
     public $currentPage;
     public $perpage;
     public $total;

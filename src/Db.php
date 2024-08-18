@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu;
+namespace Myblog;
 
 class Db
 {
-
     use TSingletone;
 
     protected function __construct()

@@ -1,10 +1,9 @@
 <?php
 
-namespace vitalbu;
+namespace Myblog;
 
 trait TSingletone
 {
-
     private static $instance;
 
     public static function instance()

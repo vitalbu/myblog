@@ -1,8 +1,8 @@
 <?php
 
-namespace vitalbu\base;
+namespace Myblog\base;
 
-use vitalbu\Db;
+use Myblog\Db;
 use Valitron\Validator;
 
 abstract class Model
